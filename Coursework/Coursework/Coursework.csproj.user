@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Actors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Genres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mainmenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movie_Actors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Movie_Genres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TVSeries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TVSeries_Actors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TVSeries_Genres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="User_Viewed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
